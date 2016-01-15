@@ -1,19 +1,27 @@
-Exp_31
+Exp_31 
+ 15R
+ 78units
 
 Meas_1
 
 Shank_1 
-	none
-Shank_2 
-	none
-Shank_3 
-	none
-Shank_4 
-	none
-Shank_5 
-	none
+ 0units
 
-Shank_6 5R
+Shank_2 
+ 0units
+
+Shank_3 
+ 0units
+
+Shank_4 
+ 0units
+
+Shank_5 
+ 0units
+
+Shank_6 
+ 5R
+ 9units
 	e1 c12
 	e2 c
 	e3 c03
@@ -23,7 +31,9 @@ Shank_6 5R
 	e7 c13 c29 
 	e8 c05
 
-Shank_7 3R
+Shank_7 
+ 3R
+ 9units
 	e1 c16
 	e2 c11
 	e3 c
@@ -33,7 +43,9 @@ Shank_7 3R
 	e7 c
 	e8 c13 c09
 
-Shank_8 4R
+Shank_8 
+ 4R
+ 14units
 	e1 c66
 	e2 c
 	e3 c03 c25 c15
@@ -46,47 +58,51 @@ Shank_8 4R
 Meas2
 
 Shank_1
-	7units
+ 7units
 
 Shank_2
-	1unit
+ 1unit
 
 Shank_3
-	1unit
+ 1unit
 
 Shank_4
-	7units
+ 7units
 
 Shank_5
-	7units
+ 7units
 
-Shank_6 3R
-e1 c
-e2 c54
-e3 c
-e4 c57
-e5 c
-e6 c09
-e7 c
-e8 c43 c05
+Shank_6 
+ 3R
+ 5units
+	e1 c
+	e2 c54
+	e3 c
+	e4 c57
+	e5 c
+	e6 c09
+	e7 c
+	e8 c43 c05
 
 Shank_7 
-e1 c14 c29 c23
-e2 c
-e3 c12 c25
-e4 c
-e5 c31 c33
-e6 c17
-e7 c
-e8 c02
+ 9units
+	e1 c14 c29 c23
+	e2 c
+	e3 c12 c25
+	e4 c
+	e5 c31 c33
+	e6 c17
+	e7 c
+	e8 c02
 
 Shank_8
-e1 c16 c48
-e2 c
-e3 c26
-e4 c
-e5 c24
-e6 c04
-e7 c10 c50
-e8 c02 c47
+ 9units
+	e1 c16 c48
+	e2 c
+	e3 c26
+	e4 c
+	e5 c24
+	e6 c04
+	e7 c10 c50
+	e8 c02 c47
 
