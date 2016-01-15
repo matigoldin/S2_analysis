@@ -1,31 +1,92 @@
-Exp_23
+Exp_31
 
-Meas_3
-e1 c
-e2 c
-e3 c
-e4 c
-e5 c
-e6 c
-e7 c
-e8 c
+Meas_1
+
+Shank_1 
+	none
+Shank_2 
+	none
+Shank_3 
+	none
+Shank_4 
+	none
+Shank_5 
+	none
+
+Shank_6 5R
+	e1 c12
+	e2 c
+	e3 c03
+	e4 c
+	e5 c27 c25 c24
+	e6 c08
+	e7 c13 c29 
+	e8 c05
+
+Shank_7 3R
+	e1 c16
+	e2 c11
+	e3 c
+	e4 c06
+	e5 c08 c21 c24
+	e6 c18
+	e7 c
+	e8 c13 c09
+
+Shank_8 4R
+	e1 c66
+	e2 c
+	e3 c03 c25 c15
+	e4 c
+	e5 c14 c69 c71
+	e6 c08 c22 c06
+	e7 c65 c64
+	e8 c10 c09
 
 Meas2
-e1 c
-e2 c
-e3 c
-e4 c
-e5 c
-e6 c
-e7 c
-e8 c
 
-Meas2
+Shank_1
+	7units
+
+Shank_2
+	1unit
+
+Shank_3
+	1unit
+
+Shank_4
+	7units
+
+Shank_5
+	7units
+
+Shank_6 3R
 e1 c
-e2 c
+e2 c54
 e3 c
-e4 c
+e4 c57
 e5 c
-e6 c
+e6 c09
 e7 c
-e8 c
+e8 c43 c05
+
+Shank_7 
+e1 c14 c29 c23
+e2 c
+e3 c12 c25
+e4 c
+e5 c31 c33
+e6 c17
+e7 c
+e8 c02
+
+Shank_8
+e1 c16 c48
+e2 c
+e3 c26
+e4 c
+e5 c24
+e6 c04
+e7 c10 c50
+e8 c02 c47
+
