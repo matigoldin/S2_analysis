@@ -1,0 +1,185 @@
+Exp_27 done with 60msec
+ 33R 
+ 97units
+
+Meas_1
+ 3R
+ 16units
+
+Shank_1 no units
+Shank_2 no units
+Shank_3 no units
+
+Shank_4
+ 1R
+ 2units
+	e1 c
+	e2 c
+	e3 c09
+	e4 c
+	e5 c
+	e6 c06
+	e7 c
+	e8 c
+Shank_5 no units
+Shank_6 MULTI RESPONSE
+ 1R
+ 1unit
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c06
+	e6 c
+	e7 c
+	e8 c
+Shank_7
+ 1R
+ 3units
+	e1 c
+	e2 c
+	e3 c
+	e4 c03
+	e5 c04 c08
+	e6 c
+	e7 c
+	e8 c
+Shank_8
+ 0R
+ 10units
+	e1 c
+	e2 c20
+	e3 c34
+	e4 c09 c22
+	e5 c13 c32
+	e6 c26
+	e7 c11 c17 c28
+	e8 c
+
+
+Meas2
+ 14R
+ 48units
+
+Shank_1 no units
+Shank_2 no units
+Shank_3 no units
+
+Shank_4
+0R
+ 3units
+	e1 c
+	e2 c
+	e3 c08
+	e4 c11
+	e5 c09
+	e6 c
+	e7 c
+	e8 c
+Shank_5 MULTI response
+ 6R
+ 16units
+	e1 c
+	e2 c11 c15 c10
+	e3 c45 c08 c61
+	e4 c30 c37 c07 c41
+	e5 c69
+	e6 c03 c65
+	e7 c16 c20
+	e8 c25
+Shank_6 MULTI response
+ 5R
+ 8units
+	e1 c37
+	e2 c
+	e3 c32 C41
+	e4 (c26 C30)
+	e5 (c05 C27) C07 
+	e6 c29 c44
+	e7 c
+	e8 c
+Shank_7 MULTI response
+ 3R
+ 7units
+	e1 c27
+	e2 c06 c31
+	e3 c
+	e4 c08
+	e5 c18
+	e6 c05
+	e7 c
+	e8 c36**
+Shank_8
+ 0R
+ 14units
+	e1 c121 c122
+	e2 c119 c62
+	e3 (c20 c19) c07 c117
+	e4 (c58 c52) c115 c25
+	e5 c
+	e6 c03 c112
+	e7 c10
+	e8 c113
+
+Meas3
+ 16R
+ 33units
+
+Shank_1 no units
+Shank_2 no units
+Shank_3 plotted 75ms
+ 1R
+ 1unit
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7 c05 late
+	e8 c
+Shank_4
+ 0R
+ 1unit
+	e1 c
+	e2 c
+	e3 c04
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c
+Shank_5 no units
+Shank_6 MULTI late response plotted 90msec
+ 2R late
+ 6units
+	e1 c
+	e2 c
+	e3 c
+	e4 c45
+	e5 c31 c16
+	e6 c03 c04
+	e7 c46
+	e8 c
+Shank_7 MULTI response late plotted 90ms
+ 9R late
+ 15units
+	e1 c16
+	e2 c30 c19
+	e3 c25 c52
+	e4 c51 c47
+	e5 (c41 c56 c60) c37 c13 
+	e6 (c12 c63) c53 
+	e7 (c35 c54) c46 c26 
+	e8 c
+Shank_8 MULTI response late 90ms
+ 4R late
+ 10units
+	e1 c36
+	e2 c16
+	e3 c14 c27 c26
+	e4 (c06 c02) c31
+	e5 (c24 c43)
+	e6 c20
+	e7 c34
+	e8 c
