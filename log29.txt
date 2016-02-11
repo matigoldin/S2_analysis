@@ -171,7 +171,7 @@ Shank_8
 	e7 c19 c49
 	e8 c
 
-Meas3 (done until 60ms for late responses)
+Meas3 
  39R
  121units
 
