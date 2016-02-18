@@ -1,0 +1,129 @@
+Exp_24
+ 14R
+ 44units
+ 13multiR
+
+------------------------------
+Meas1
+ 12R
+ 31units
+ 11multiR
+------------------------------
+Shank_1 -no functional responses- not in S2
+
+Shank_2 -no functional responses- not in S2
+	
+Shank_3 -no functional responses- not in S2
+	
+Shank_4 -no functional responses- not in S2
+	
+Shank_5 
+ 2R
+ 5units
+	e1 c
+	e2 c10 c12
+	e3 c11 c09
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c06
+Shank_6
+ 4R
+ 9units
+ 4multiR
+	e1    c55m
+	e2 c14
+	e3 c29   c50m
+	e4 c22   c42m
+	e5 c25 c23
+	e6 c10 c16
+	e7 c31
+	e8 c26   c58m
+Shank_7
+ 2R
+ 11units
+	e1 c57 c62
+	e2 c24
+	e3 c5 c13
+	e4 c15 c29
+	e5 c
+	e6 c7
+	e7 c27 c121
+	e8 c6
+Shank_8
+ 4R
+ 6units
+ 7multiR
+	e1 c8 
+	e2 c73   c126m c135m
+	e3 c
+	e4 c32
+	e5 c113   c123m c120m
+	e6 c90   c132m
+	e7 c
+	e8 c67   c129m c117m
+
+------------------------------
+Meas_2
+ 2R
+ 13units
+ 2multiR
+------------------------------
+Shank_1 no functional responses
+	e1 c15
+	e2 c13
+	e3 c
+	e4 c
+	e5 c40
+	e6 c42 c43
+	e7 c11
+	e8 c3
+Shank_2 no functional responses
+	e1 c
+	e2 c4
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c
+
+Shank_3 no units 
+Shank_4 no units 
+Shank_5 no units 
+
+Shank_6
+ 1R
+ 2units
+	e1 c
+	e2 c
+	e3 c4
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c6
+Shank_7
+ 0R
+ 2units
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c20
+	e6 c4
+	e7 c
+	e8 c
+Shank_8 
+ 1R
+ 9units
+ 2multiR
+	e1 c
+	e2 c
+	e3 c21
+	e4 c39
+	e5 c3 c9 c40
+	e6 c16 c23 c37 c17
+	e7 c
+	e8    c43m c46m

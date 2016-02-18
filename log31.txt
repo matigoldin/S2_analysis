@@ -1,11 +1,14 @@
 Exp_31 
- 18R
- 118units
+ 20R
+ 83units
+ 13multiR
 
+------------------------------
 Meas_1
  12R
  32units
-
+ 10multiR
+------------------------------
 Shank_1 
  0units
 
@@ -24,23 +27,24 @@ Shank_5
 Shank_6 
  5R
  9units
-	e1 c12
+ 4multiR
+	e1 c12   c42m
 	e2 c
 	e3 c03
 	e4 c
-	e5 c27 c25 c24
+	e5 c27 c25 c24   c33m c39m
 	e6 c08
-	e7 c13 c29 
+	e7 c13 c29    c36m
 	e8 c05
-
 Shank_7 
  3R
  9units
+ 3multiR
 	e1 c16
 	e2 c11
-	e3 c
+	e3    c28m c34m
 	e4 c06
-	e5 c08 c21 c24
+	e5 c08 c21 c24  c31m
 	e6 c18
 	e7 c
 	e8 c13 c09
@@ -48,47 +52,52 @@ Shank_7
 Shank_8 
  4R
  14units
+ 3multiR
 	e1 c66
 	e2 c
-	e3 c03 c25 c15
+	e3 c03 c25 c15   
 	e4 c
-	e5 c14 c69 c71
+	e5 c14 c69 c71   c77m
 	e6 c08 c22 c06
-	e7 c65 c64
+	e7 c65 c64   c80m
 	e8 c10 c09
 
+------------------------------
 Meas2
- 3R
- 46units
-
-Shank_1
+ 5R
+ 30units
+ 1multiR
+------------------------------
+Shank_1 NOT COUNTED NOT IN S2
  7units
 
-Shank_2
+Shank_2 NOT COUNTED NOT IN S2
  1unit
 
-Shank_3
+Shank_3 NOT COUNTED NOT IN S2
  1unit
 
-Shank_4
+Shank_4 NOT COUNTED NOT IN S2
  7units
 
-Shank_5
+Shank_5 COUNTED AS S2 LIMITS
  7units
 
 Shank_6 
  3R
  5units
+ 1multiR 
 	e1 c
 	e2 c54
 	e3 c
 	e4 c57
 	e5 c
-	e6 c09
+	e6 c09   c61m
 	e7 c
 	e8 c43 c05
 
 Shank_7 
+ 2R
  9units
 	e1 c14 c29 c23
 	e2 c
@@ -99,7 +108,7 @@ Shank_7
 	e7 c
 	e8 c02
 
-Shank_8
+Shank_8 COUNTED AS S2 LIMITS 
  9units
 	e1 c16 c48
 	e2 c
@@ -110,11 +119,13 @@ Shank_8
 	e7 c10 c50
 	e8 c02 c47
 
+------------------------------
 Meas3
  3R
- 40units
-
-Shank_1
+ 21units
+ 2multiR
+------------------------------
+Shank_1 NOT COUNTED NOT IN S2
  4units
 
 Shank_2
@@ -123,18 +134,19 @@ Shank_2
 Shank_3
  no units
 	
-Shank_4
+Shank_4 NOT COUNTED NOT IN S2
  8units
 
-Shank_5
+Shank_5 COUNTED AS S2 LIMITS 
  1unit
 	
 Shank_6
  1R
  3units
+ 1multiR
 	e1 c
 	e2 c
-	e3 c
+	e3    c23m
 	e4 c
 	e5 c19
 	e6 c17
@@ -143,11 +155,12 @@ Shank_6
 Shank_7
  1R
  5units
+ 1multiR
 	e1 c03
 	e2 c07
 	e3 c09 c06
 	e4 c
-	e5 c12
+	e5 c12   c16m
 	e6 c
 	e7 c
 	e8 c
