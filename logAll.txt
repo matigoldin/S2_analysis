@@ -5,45 +5,53 @@
 ------------------------------
 ------------------------------
 Partial count
-	557R
-	1466units
-	370multiR
+	628R
+	1496units
+	600multiR + Exp28 Meas3 missing
 
 ------------------------------
 ------------------------------
 Exp10
 	*responses
+
 ------------------------------
 Exp12
 	??
+
 ------------------------------
 Exp13
 	*good units
+
 ------------------------------
 Exp14
 	*good units
+
 ------------------------------
 Exp15
 	*responses
+
 ------------------------------
 Exp16
 	*responses
+
 ------------------------------
 Exp18
-	no functional responses
-	few units
+no functional responses
+few units
 ------------------------------
 Exp20
-1unit
-1R
+	1R
+	10units
+	4multiR
 ------------------------------
 Exp21
-	no functional responses
-	many units
+no functional responses
+many units
 ------------------------------
 Exp22
-30R
-150units
+	62R
+	81units
+	44multiR
 ------------------------------
 Exp23
 	17R 
@@ -56,9 +64,9 @@ Exp_24
 	13multiR
 ------------------------------
 Exp_25
-	no functional responses, 
-	not clustered
-	many many units
+no functional responses, 
+not clustered
+many many units
 ------------------------------
 Exp26
 	22R
@@ -71,8 +79,9 @@ Exp_27
 	47multiR
 ------------------------------
 Exp_28
-115R
-488units
+ 	123R
+	427units
+	182multiR + exp3misssing
 ------------------------------
 Exp_29
 	77R
