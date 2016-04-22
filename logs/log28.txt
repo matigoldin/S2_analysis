@@ -1,0 +1,310 @@
+Exp_28 
+ 123R
+ 427units
+ 182multiR + exp3misssing
+
+------------------------------
+Meas1 
+ 25R
+ 106units
+ 49multiR
+------------------------------
+Shank_1
+ 9R
+ 11units
+ 11multiR
+	e1 c
+	e2 c134
+	e3 c05?
+	e4 c02 (c7 c119) (c27 c45 c116)
+	e5 c137 c140
+	e6 c34 c84 (c5 c246)
+	e7 (c11 c16)
+	e8 c123
+Shank_2
+ 4R
+ 13units
+ 25multiR
+	e1 (c74 c95)
+	e2 c
+	e3 c98
+	e4 c79
+	e5 c156
+	e6 c154 c155 c157
+	e7 c25 c34 c150
+	e8 c18 c43 c99
+Shank_3
+ 3R
+ 22units
+ 9multiR
+	e1 c13 c56 c88
+	e2 c42 c85 c87 c93
+	e3 c4 c12 c19 c22 c37
+	e4 c58
+	e5 c82
+	e6 c57
+	e7 c24 c30 c90 
+	e8 c27 c28 c86 c92
+Shank_4
+ 6R
+ 18units
+ 3multiR have to sort
+ 	e1 c63
+	e2 c41 c46
+	e3 c32 c71
+	e4 (c69 c70)
+	e5 c4 c9
+	e6 c68
+	e7 c17 c43 c44 c50 c62
+	e8 c10 c35 c42 c66
+Shank_5
+ 3R
+ 15units
+ 0multiR
+	e1 c11 c19
+	e2 c17 c23 c24
+	e3 c10 c22
+	e4 c9 c37
+	e5 c
+	e6 c14 c28 c41
+	e7 c25 c26
+	e8 c20
+Shank_6 
+  0R
+  14units
+  1multiR
+	e1 c10 c66 c72
+	e2 c24 c64
+	e3 c
+	e4 c
+	e5 c82
+	e6 c23 c85
+	e7 c19 c25 c36
+	e8 c17 c35 c68
+Shank_7 counted as S2 limits
+ 0R
+ 13units
+ 0multiR
+	e1 c
+	e2 c8 c9 c10
+	e3 c7 c15 c23
+	e4 c11 
+	e5 c4 c14
+	e6 c6 c16 c20
+	e7 c
+	e8 c22
+Shank_8 OUT OF S2 not counted
+  0Responses
+  8units
+	e1 c
+	e2 c
+	e3 c
+	e4 c9
+	e5 c8
+	e6 c5
+	e7 c10 c11 c14
+	e8 c12 c15
+
+------------------------------
+Meas2
+ 56R
+ 138units
+ 133multiR
+------------------------------
+Shank_1
+ 12R
+ 19units
+ 34multiR
+	e1 (c78 c208) (c234 c298)
+	e2 c38 c212 c438 c521
+	e3 c
+	e4 c126 
+	e5 c188 c524 c525 (527 c302) 
+	e6 c3 c66 c128 
+	e7 (c290 c526) c182 c528
+	e8 c529 c304
+Shank_2
+ 10R
+ 20units 
+ 28multiR
+	e1 c33 c63 c85 c380
+	e2 c19 c392
+	e3 c67 c397 (c75 c76)
+	e4 (c382 c390) 
+	e5 (c119 c389) c65 c330
+	e6 (c395 c396 c393) c51
+	e7 c
+	e8 (c14 c391) c44 c92 c134 c171
+Shank_3
+ 15R
+ 21units
+ 30multiR
+	e1 (c321 c365)
+	e2 c43
+	e3 (c161 c166 c111) c106
+	e4 (c342 c72) c60 c323 c327
+	e5 (c90 c318) c14 c18 (c92 c146 c16) (c318 c90 c08)
+	e6 (c172 c319) (c325 c326 c175) 
+	e7 c162 c322
+	e8 c25 c39 c379 (c88 c377)
+Shank_4
+ 8R
+ 27units
+ 30multiR
+	e1 c11 c93
+	e2 c32 c130 c129 c133
+	e3 c33 c110 (c34 c103) c46 c100 c140 
+	e4 c97 c134
+	e5 c8 c65 c92 c135
+	e6 c114 c124
+	e7 c136 c137
+	e8 c117 c141 c20 c121 c122
+Shank_5
+ 6R
+ 12units
+ 7multiR
+	e1 c
+	e2 c
+	e3 c35 c73
+	e4 c60
+	e5 c44 c74 c65
+	e6 c27 c55
+	e7 c6 c59 c68
+	e8 c49
+Shank_6
+ 5R
+ 23units
+ 4multiR
+	e1 c23 
+	e2 c40 c72
+	e3 c59 c67 c91
+	e4 c26 
+	e5 c5 c28 c51
+	e6 c13 c37 c55 c56 c62
+	e7 c7 c46 c49 c65
+	e8 c9 c54 c88 c89
+Shank_7 counted as S2 limits
+  0 Responses
+  16 units
+	e1 c9 c16
+	e2 c30 c38
+	e3 c7 c17 c39
+	e4 c13 c31
+	e5 c20 c36
+	e6 c12 c37
+	e7 c
+	e8 c27 (c34 c44)
+Shank_8 not counted out of S2
+  0 Responses
+  5 units
+	e1 c13
+	e2 c7
+	e3 c
+	e4 c19
+	e5 c
+	e6 c
+	e7 c6 c15
+	e8 c
+
+------------------------------
+Meas_3
+ 42R 
+ 183units
+
+------------------------------
+Shank_1
+  6 Responses
+  21 units
+	e1 c112
+	e2 c56
+	e3 
+	e4 c150 c136
+	e5 c138 c55 c3
+	e6 c31 c126 c6 c32 c52
+	e7 c54 c128 c148 c69
+	e8 c58 c11*** c23*** c114*** c123***
+	***big group of neurons doing the same thing?
+
+Shank_2
+6Responses
+  27units 
+	e1 c160 c137 c119 c143 c157 c148 c52
+	e2 c35 
+	e3 c67 
+	e4 c128 c20 c21
+	e5 c25 c133 c156 c110 c146 c50
+	e6 c28 c144 c5
+	e7 c43
+	e8 c17 c39 c154 c155 c121
+
+Shank_3
+  12 Responses
+  32 units
+	e1 (c350 c152) c73
+	e2 (c39 c50)
+	e3 c141 c2188 (c35 c2590)
+	e4 (c1043 c2186) c2583
+	e5 c1044 (c78 c2197) c2582 
+	e6 c1115 c2187 c2580
+	e7 (c2 c83) c147 (c357 c531) c1128 c2173  
+	e8 c16 c346 (c1112 c1113 c1114) c2589
+
+Shank_4
+  8 Responses
+  30 units
+	e1 (c570 c617 c634) 613 638 670
+	e2 (576 625)
+	e3 c138 c281 c302 c142
+	e4 c108 c116 c100
+	e5 c53 c307 c77 c21
+	e6 c282 c119 c4
+	e7 c308 c666
+	e8 (c66 c133 c543 c603 c588 c628) c641
+
+Shank_5
+  7 Responses
+  33 units
+	e1 (c526 c529) c185 c532
+	e2 c126 (c138 c347)
+	e3 (c574 c577 580 c581)
+	e4 (c610 c622 c630 c631 c632 c638)
+	e5 c635 c77 
+	e6 c348 c563
+	e7 (c32 c75) c535 c564 c565 c544
+	e8 (c68 c134) c486 (c519 c520)
+
+Shank_6
+  1 Responses
+  19 units
+	e1 c70 c84 c73 c43
+	e2 c19 c88 c30 c64
+	e3 c44 c51 c71
+	e4 c87
+	e5 c90
+	e6 c63 c72
+	e7 c85
+	e8 c16 c56 c89
+
+Shank_7
+  1 Responses
+  12 units
+	e1 c16* c23*
+	e2 c35 c8
+	e3 c46 c55
+	e4 c38 c44
+	e5 c52
+	e6 c12
+	e7 c13
+	e8 c29
+
+Shank_8
+  1 Responses
+  9 units
+	e1 c27* c26*
+	e2 c28*
+	e3 c25
+	e4 c
+	e5 c05 c24
+	e6 c12
+	e7 c14 c16
+	e8 c

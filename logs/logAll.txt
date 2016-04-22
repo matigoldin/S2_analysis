@@ -1,0 +1,104 @@
+20 Experiments
+	16 with functional responses
+	3 with no functional responses
+	1 to see 
+------------------------------
+------------------------------
+Partial count
+	628R
+	1500units
+	600multiR + Exp28 Meas3 missing
+
+------------------------------
+------------------------------
+Exp10
+	*responses
+
+------------------------------
+Exp12
+	??
+
+------------------------------
+Exp13
+	*good units
+
+------------------------------
+Exp14
+	*good units
+
+------------------------------
+Exp15
+	*responses
+
+------------------------------
+Exp16
+	*responses
+
+------------------------------
+Exp18
+no functional responses
+few units
+------------------------------
+Exp20
+	1R
+	10units
+	4multiR
+------------------------------
+Exp21
+no functional responses
+many units
+------------------------------
+Exp22
+	62R
+	81units
+	44multiR
+------------------------------
+Exp23
+	17R 
+	34units
+	15multiR
+------------------------------
+Exp_24
+	14R
+	44units
+	13multiR
+------------------------------
+Exp_25
+no functional responses, 
+not clustered
+many many units
+------------------------------
+Exp26
+	22R
+	50units
+	28multiR
+------------------------------
+Exp_27 
+	33R 
+	98units
+	47multiR
+------------------------------
+Exp_28
+ 	123R
+	427units
+	182multiR + exp3misssing
+------------------------------
+Exp_29
+	77R
+	199units
+	90multiR
+------------------------------
+Exp_30
+	233R
+	373units 
+	153multiR
+------------------------------
+Exp_31 
+	20R
+	83units
+	13multiR
+------------------------------
+Exp_32
+	26R
+	101units
+	11multiR

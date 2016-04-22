@@ -1,0 +1,55 @@
+Exp_20
+ 1R
+ 10units
+ 4multiR
+------------------------------
+Meas_1
+ 1R
+ 8units
+ 2multiR
+------------------------------
+Shank_1
+ 1R
+ 1unit
+ 1multiR
+
+Shank_2  - no responsive units
+
+Shank_3
+ 0R
+ 2units
+
+Shank_4
+ 0R
+ 5units
+ 1multiR
+	e1 c
+	e2 c
+	e3 c92 c113 c111m
+	e4 c
+	e5 c73 c81 c86
+	e6 c
+	e7 c
+	e8 c
+
+------------------------------
+Meas2
+ 0R
+ 2units
+ 2multiR
+------------------------------
+Shank_1
+ 0units
+ 2multiR	
+
+Shank_2 - counted as S2 limits
+ 0R
+ 2units
+	
+Shank_3 - not counted not in S2
+ 0R
+ 2units
+
+Shank_4 - not counted not in S2
+ 0R
+ 1unit	

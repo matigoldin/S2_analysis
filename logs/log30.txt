@@ -1,0 +1,414 @@
+Exp_30 
+ 233R
+ 373units 
+ 153multiR
+
+------------------------------
+Meas_1
+ 51R
+ 100units
+ 12multiR
+------------------------------
+Shank_1 
+ 6R
+ 13units
+ 3multiR
+	e1 c25
+	e2 c24  c36m
+	e3    c39m
+	e4 c07
+	e5 c06   c33m
+	e6 c03
+	e7 c30 c17 c23
+	e8 (c04 c21) c02 c27 c18 c09
+Shank_2
+ 9R
+ 18units
+ 3multiR
+	e1 c26
+	e2 c   
+	e3 c21   
+	e4 c27
+	e5 c65 c17 c66   c72m
+	e6 c02 c58 c22 c09 c61 c25   c69m
+	e7 c18 c15 c60 c23   c75m
+	e8 c20 c05
+Shank_3
+ 5R
+ 10units
+ 1multiR
+	e1 c14
+	e2 c 
+	e3 c
+	e4 c03
+	e5 c21   c32m
+	e6 c06 c15 c24 
+	e7 c16 c18 c11
+	e8 c29
+Shank_4
+ 5R
+ 9units
+ 1multiR
+	e1 c09
+	e2 c13
+	e3 (c25 c27)   c33m
+	e4 c04
+	e5 c06
+	e6 c
+	e7 c30 c18 
+	e8 c05 c26
+Shank_5
+ 3R
+ 8units
+ 2multiR
+	e1 c05
+	e2 c13 c10
+	e3 c
+	e4 c23
+	e5 c02
+	e6 (c22 c09)   c47m c50m
+	e7 c14 c44
+	e8 c
+Shank_6
+ 4R
+ 10units
+	e1 c
+	e2 c17 c12
+	e3 c22
+	e4 c
+	e5 c21 c09
+	e6 c23
+	e7 c15 c13 c05
+	e8 c16
+Shank_7
+ 4R
+ 11units
+	e1 c
+	e2 c15 c25
+	e3 c11
+	e4 c
+	e5 c09 c12
+	e6 c24
+	e7 c10
+	e8 c13 c07 c04 c02
+Shank_8
+ 15R
+ 21units
+ 2multiR
+	e1 c54 c15
+	e2 c09 c03
+	e3 c52 c08 c30
+	e4 c04 c26
+	e5 c27 c22
+	e6 c40 c51 c31 c10
+	e7 c48 c39 c16 c29   c57m c60m
+	e8 c50 c38
+
+------------------------------
+Meas2
+ 48R
+ 67units
+ 29multiR
+------------------------------
+Shank_
+ 7R
+ 11units
+ 5multiR
+	e1 c18
+	e2 c
+	e3 c19   c86m
+	e4 c
+	e5 c05 c57 c68 c09   c77m
+	e6 c25 c71   c74m c80m
+	e7 c15 c55
+	e8 c53   c83m
+Shank_2 
+ 3R
+ 7units
+ 4multiR
+	e1 c 
+	e2 c03
+	e3 c
+	e4 c
+	e5 c20   c32m c35m
+	e6 c21 c22   c29m
+	e7 c02
+	e8 (c10 c11) c13   c26m
+Shank_3 
+ 6R
+ 10units
+ 6multiR
+	e1 c24
+	e2 c28
+	e3 c34
+	e4 c46
+	e5 c09   c53m c56m c59m c62m 
+	e6 c25   c68m
+	e7 c21 c50  c65m
+	e8 (c08 c02) c47 
+Shank_4 
+ 4R
+ 6units
+ 5multiR
+	e1 c
+	e2 c14
+	e3 c04   c31m c34m c40m c43m
+	e4 c
+	e5 c30 c09 
+	e6 c
+	e7 c12
+	e8 c18   c37m
+Shank_5 
+ 4R
+ 4units
+ 3multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c12
+	e5 c03   c15m c18m
+	e6    c21m
+	e7 c11
+	e8 c10
+Shank_6
+ 9R
+ 11units
+	e1 c14
+	e2 c09
+	e3 c35
+	e4 c
+	e5 c26 c13
+	e6 c05 c34
+	e7 c18 c07
+	e8 c25 c27
+Shank_7
+ 5R
+ 7units
+ 1multiR
+	e1 c16
+	e2 c
+	e3 c15
+	e4 c21
+	e5 ((c26 c24) c25) c04
+	e6 c11   c29m
+	e7 c
+	e8 c13
+Shank_8 
+ 10R
+ 11units
+ 5multiR
+	e1 c16 c15
+	e2 c12
+	e3 c24   c59m
+	e4 c02 c44   c47m
+	e5 c37 c06   c50m c53m c56m
+	e6 c
+	e7 c23 c14
+	e8 c25
+
+------------------------------
+Meas3
+ 77R
+ 110units
+ 54multiR
+------------------------------
+Shank_1 
+ 11R
+ 18units
+ 6multiR
+	e1 (c101 c100 C62) C39 c33 c05 
+	e2 c45
+	e3 c104 c106 c21   c121m
+	e4 (c102 c103)
+	e5 c105 c11
+	e6 (c99 c08) c32   c112m c124m
+	e7 (c82 C31) (C84 c89) c64
+	e8 (c71 c70 c56) (c92 c53)   c109m c115m c118m
+Shank_2
+ 8R
+ 15units
+ 6multiR
+	e1 c57   c68m
+	e2 c21
+	e3 (c33 c26 c06) c28    c71m
+	e4 c
+	e5 (c39 c03) c29 c60   c65m c77m
+	e6 c45 c44 c31 c07   c74m c80m
+	e7 (c36 c15 c25) c37
+	e8 c10 c34
+Shank_3 
+ 13R
+ 25units
+ 13multiR
+	e1 c32
+	e2 c40
+	e3 c04 c28 c17 c57 c42
+	e4 c46 c45   c104m
+	e5 (c52 c48) c47 c78   c119m
+	e6 c06 c87 c02 c88   c116m c128m
+	e7 (c84 c80) c81 c39 c21 c53 c11  c95m c101m c107m c110m c122m c125m
+        e8 c16 c10 c69   c92m c98m c113m
+Shank_4 
+ 6R 
+ 12units
+ 11multiR
+	e1 c59
+	e2 c13
+	e3     c92m
+	e4 c30 c14 c75   c80m c83m c86m c89m c95m c98m c101m c104m
+	e5 c66   c110m 
+	e6 c58
+	e7 c26 c29
+	e8 c54 c56   c107m
+Shank_5 
+ 8R
+ 8units 
+ 2multiR
+	e1 c
+	e2 c05 c10
+	e3 c18 c22 
+	e4 c
+	e5 c
+	e6 c13   c28m
+	e7 c20 c04   c25m
+	e8 c12
+Shank_6 
+ 10R
+ 10units
+ 5multiR
+	e1 c16
+	e2 c07 c15 c34  
+	e3 c20   c48m
+	e4 c
+	e5 c22 c37   c42m
+	e6 c06   c45m c51m
+	e7 c13   c54m
+	e8 c12   
+Shank_7 multi interesting
+ 12R
+ 13units
+ 3multiR
+	e1 c40
+	e2 c16 c15  c32m
+	e3 c14 c03 c10
+	e4 c20 c04 c08
+	e5 c22   c26m
+	e6 c18
+	e7 c
+	e8 (c02 c21 c05) c19   c29m
+Shank_8 
+ 9R
+ 9units
+ 8multiR
+	e1 c13 c40   c64m c67m c73m
+	e2 c
+	e3 c
+	e4 c
+	e5    c79m c82m
+	e6 c41 c32
+	e7 c37 c22
+	e8 c06 c51 c15   c85m c70m c76m
+
+------------------------------
+Meas_4
+ 57R
+ 96units
+ 58multiR
+------------------------------
+Shank_1
+ 2R
+ 18units
+ 1multiR
+	e1 c35 c06 c42   c46m
+	e2 c38 c39 c40
+	e3 c04 c09 c31
+	e4 c
+	e5 c41 c26
+	e6 c20
+	e7 c25 c12 c17
+	e8 c37 c05 c11
+
+Shank_2
+ 6R
+ 13units
+ 7multiR
+	e1 (c52 c57) c13 c30   c67m c70m
+	e2 c63
+	e3 c21
+	e4 c48 c25
+	e5 c54   c73m
+	e6 c38
+	e7 c61 c49   c76m c79m c82m c85m
+	e8 c64 c18
+Shank_3 
+ 10R
+ 15units
+ 13multiR
+	e1 c20
+	e2 c68 c54 c23   c74m c77m c80m c98m
+	e3 c58   c71m c83m c86m c89m
+	e4 (c65 c66) c63 c49    c92m c107m
+	e5 (c61 c46)   c101m
+	e6 c42 c59
+	e7 c53 c37    c95m
+	e8 (c09 c28) c35   c104m
+Shank_4
+ 14R
+ 16units
+ 14multiR
+	e1 c68 c24
+	e2 c69 (c98 c21 c116) c115    c137m
+	e3 (c8 c27 c47) c93 c114 c33   c140m c152m
+	e4 (c53 c10)
+	e5 (c56 c62)   c146m c122m c119m c134m c143m c146m
+	e6 c35
+	e7 (c29 c54) c37
+	e8 (c09 c19) c14   c128m c131m c158m c149m c125m
+Shank_5
+ 10R
+ 14units
+ 5multiR
+	e1 c
+	e2 c18 c40   c43m
+	e3 c09 c27   c46m
+	e4 c31 c05
+	e5 c36   c45m c52m
+	e6 c39 c13 c26   c55m
+	e7 c15 c29 c22
+	e8 c17
+Shank_6
+ 5R
+ 8units
+ 5multiR
+	e1 c11
+	e2 c
+	e3 c
+	e4 c04
+	e5 (c20 c07)
+	e6 c16
+	e7 c22 c21
+	e8 c12 c06  c02m c09m c10m c13m c15m
+Shank_7
+ 3R
+ 4units
+ 3multiR
+	e1 c19
+	e2 c09
+	e3    c29m
+	e4 c
+	e5 c24   c38m
+	e6 c
+	e7 c
+	e8 c12   c41m
+Shank_8
+ 7R
+ 8units
+ 10multiR
+	e1 c25 c31   c65m
+	e2 c35   c50m
+	e3 c10   c53m
+	e4 c13
+	e5 (c11 c28)
+	e6 c
+	e7 (c14 c33)   c62m c38m c47m
+	e8 (c03 c19)   c44m c56m c41m c59m

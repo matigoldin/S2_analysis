@@ -1,0 +1,159 @@
+Exp_26
+ 22R
+ 50units
+ 28multiR
+
+------------------------------
+Meas1 - only 10 minutes, only marked if enough spikes
+ 13R
+ 34units
+ 23multiR 
+------------------------------
+Shank_1
+ 1R
+ 3units
+ 1multiR
+	e1 c
+	e2 c14 c09
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7 c07
+	e8 c
+Shank_2
+ 1R
+ 4units
+	e1 c14
+	e2 c
+	e3 c
+	e4 c19
+	e5 c02
+	e6 c
+	e7 c11
+	e8 c
+Shank_3
+ 1R
+ 3units
+ 6multiR
+	e1    c24m
+	e2 c07
+	e3 c14
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c08   c39m c36m c30m c33m c27m
+Shank_4
+ 1R
+ 1unit
+ 4multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c
+	e6 c10
+	e7   c36m
+	e8   c33m c42m c39m
+Shank_5
+ 4R
+ 5units
+ 7multiR
+	e1   c30m c36m
+	e2 c02
+	e3    c39m
+	e4 c20
+	e5 c
+	e6 c
+	e7 c05 c16
+	e8    c27m c33m c42m c45m
+Shank_6
+ 5R
+ 7units
+ 5multiR
+	e1 c12 c06
+	e2 c14
+	e3 c04   c23m
+	e4 c
+	e5 c
+	e6 c11
+	e7 c16   c26m
+	e8 c10   cc35m c32m c29m
+
+Shank_7 counted as S2 limits
+ 0R
+ 11units
+
+------------------------------
+Meas_2
+ 9R
+ 16units
+ 5multiR 
+------------------------------
+Shank_1
+ 4R
+ 4units
+ 2multiR
+	e1 c
+	e2 c32 c36
+	e3 c
+	e4 c07
+	e5 c14
+	e6 c
+	e7 c
+	e8    c40m
+Shank_2
+ 3R
+ 3units
+ 2multiR
+	e1 c
+	e2 c
+	e3 c40
+	e4 c
+	e5 c
+	e6 c38 c39
+	e7 c
+	e8   c43m
+Shank_3
+ 2R
+ 3units
+ 1multiR
+	e1 c93
+	e2 c
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7    c115m
+	e8 c52 c26
+Shank_4 counted as S2 limits
+ 0R
+ 6units
+	e1 c17 c19
+	e2 c61
+	e3 c57
+	e4 c15
+	e5 c56
+	e6 c
+	e7 c
+	e8 c
+Shank_5 - no units
+
+Shank_6 not counted OUT OF S2
+	e1 c18 
+	e2 c24 c27
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7 c
+	e8 c26 c21 
+
+Shank_7 - no units
+Shank_8 - no units
+
+
+------------------------------
+Meas_3 - not in SII
+------------------------------

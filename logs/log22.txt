@@ -1,0 +1,106 @@
+Exp_22
+ 62R
+ 81units
+ 44multiR
+
+------------------------------
+Meas_1
+ 12R
+ 28units
+ 7multiR
+------------------------------
+Shank_1 no functional response, no units
+
+Shank_2
+ 1R
+ 5units
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c17 c27
+	e6 c53
+	e7 c09
+	e8 c18
+Shank_3
+ 7R
+ 10units
+ 5multiR
+	e1 c20169932
+	e2 c37
+	e3 c50434850   c131087875m
+	e4 c50434849
+	e5 c03 c131087870   c131087884m
+	e6 c50434845   c131087878m c131087881m
+	e7 c1905 c590   c131087887m
+	e8 c131087871
+Shank_4
+ 4R
+ 13units
+ 2multiR
+	e1 c136 c490
+	e2 c491 c15
+	e3 c04 c295
+	e4 c
+	e5 c123 c480*
+	e6 c484
+	e7 c138 c416   c488m c494m
+	e8 c485 c13
+
+------------------------------
+Meas2
+ 50R
+ 53units
+ 37multiR
+------------------------------
+Shank_1
+ 6R
+ 7units
+ 6multiR
+	e1 c67   c178m c187m
+	e2 c12
+	e3 c
+	e4 c66   c175m c181m
+	e5 c
+	e6 c172*  c184m
+	e7 c77  c167
+	e8 c168   c69m
+Shank_2
+ 10R
+ 10units
+ 8multiR
+	e1 c
+	e2 c514
+	e3 c
+	e4 c
+	e5 c501 c688 c777
+	e6 c11 c189 c833   c1043m
+	e7 c21 c1027   c1055m
+	e8 c1040   c1046m c1049m c1052m c1058m c1061m c1064m
+Shank_3
+ 13R
+ 13units
+ 8multiR
+	e1 c22054* c21803
+	e2 c1442
+	e3 c21635
+	e4 c69   c22053m c22063m c22072m
+	e5 c21656 c22039    c22060m c22069m
+	e6 c495 c19 c134*   c22075m
+	e7 c22046 c21654   c22057m
+	e8 c21650 c33   c22066m
+Shank_4
+ 21R
+ 23units
+ 15multiR
+	e1 c77 c1087   c1175m
+	e2 c67 c1166 c1141 c1164   c1196m
+	e3 c990 c1221 c989   c1178m c1208m
+	e4 c1137 c1156   
+	e5 c521   c1202m c1214m
+	e6 c1135 c1138 c21   c1181m c1184m c1220m
+	e7 c987 c78 c1146 c11*  c1187m c1193m c1211m
+	e8 c1140 c1075 c60 c1168   c1172m c1199m c1205m
+
+
+

@@ -1,0 +1,287 @@
+Exp_29
+ 77R
+ 199units
+ 90multiR
+
+------------------------------
+Meas_1
+ 3R 
+ 22units
+ 5multiR
+------------------------------
+Shank_1
+ 2R
+ 9units
+ 1multiR
+	e1   c41m
+	e2 c15 C34
+	e3 c36
+	e4 c
+	e5 c33
+	e6 c05 C38 C25
+	e7 c17
+	e8 c35
+Shank_2
+ 1R
+ 3units
+ 1multiR
+	e1 c09   c40m
+	e2 c
+	e3 c34
+	e4 c
+	e5 c
+	e6 c37
+	e7 c
+	e8 c35
+Shank_3 
+ 0R
+ 0untis
+ 1multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c
+	e6 c
+	e7   c12m
+	e8 c
+Shank_4 
+ 1R
+ 2units
+ 1multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c08   c12m
+	e6 c03
+	e7 c
+	e8 c
+Shank_5 
+ 0R
+ 3units
+ 1multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5     c29m
+	e6 c10 c26
+	e7 c23
+	e8 c
+Shank_6
+ 1R
+ 5units
+	e1 c
+	e2 c09
+	e3 c
+	e4 c
+	e5 c26
+	e6 c25
+	e7 c28
+	e8 c11
+
+Shank_7 no responses not manual clustered
+Shank_8 no responses not manual clustered
+	
+------------------------------
+Meas2
+ 23R
+ 56units
+ 14multiR
+------------------------------
+Shank_1
+ 8R
+ 12units
+ 2multiR
+	e1 c
+	e2 c27
+	e3 c24
+	e4 c10 
+	e5 c54 c64   c69m c72m
+	e6 c61 c04 c59 
+	e7 c60
+	e8 c30 c29 c05
+Shank_2 
+ 3R
+ 12units
+ 2multiR
+	e1    c76m c79m
+	e2 c
+	e3 c70
+	e4 c
+	e5 c13 c32 c04 c68
+	e6 c16 c03
+	e7 c12 c72 c34
+	e8 c07 c19
+Shank_3 MULTI response
+ 3R
+ 3units
+ 1multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c
+	e5 c02 c09 c21  c24m
+	e6 c
+	e7 c
+	e8 c
+Shank_4 
+ 1R
+ 1unit
+ 5multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c07
+	e5 c21 c25   c24m c27m c30m c33m c36m
+	e6 c
+	e7 c06 c10
+	e8 c
+Shank_5 
+ 4R
+ 6units
+ 4multiR
+	e1 c
+	e2 c
+	e3 c
+	e4 c07
+	e5 c34 c35   c38m c41m c44m c47m
+	e6 c
+	e7 c14 c06 c10
+	e8 c
+Shank_6
+ 1R
+ 3units
+	e1 c
+	e2 c20
+	e3 c02
+	e4 c
+	e5 c19
+	e6 c
+	e7 c
+	e8 c
+Shank_7
+ 2R
+ 7units
+	e1 c
+	e2 c
+	e3 c29
+	e4 c37 
+	e5 c21 c44 c47
+	e6 c22 c32
+	e7 c
+	e8 c
+Shank_8
+ 1R
+ 12units
+	e1 c06 c13
+	e2 c
+	e3 c33 c30 c36 c45
+	e4 c50
+	e5 c38 c42 c03
+	e6 c
+	e7 c19 c49
+	e8 c
+
+------------------------------
+Meas3 
+ 51R
+ 121units
+ 71multiR
+------------------------------
+Shank_1
+ 6R
+ 26units
+ 2multiR
+	e1 c
+	e2 c17 c47
+	e3 (c129 c126) c127 c55   c168m
+	e4 (c62 c153 c151 (c50 c91)noisy_wave) c83 c53 c24
+	e5 (c157 c40) (c158 c05) c125 c156 c161
+	e6 (c148 c79) c143 c131 c75
+	e7 (c107 c134 c104 c133noisy) (c31 c22) c149 c37 
+	e8 (c102 c101 c13) c124 c119 c139   c165m
+Shank_2
+ 5R
+ 11units
+ 6multiR
+	e1 c16   c65m
+	e2 c18
+	e3 c
+	e4 c47 C48 C32   c59m
+	e5 c06   c62m c71m
+	e6 c
+	e7 C11 (c52 c53)   c68m
+	e8 c35 C28 (c46 C29)   c56m
+Shank_3 
+ 10R
+ 17units
+ 15multiR
+	e1 c08 c20
+	e2 c88 c51
+	e3 c21 c67 c42   c184m c202m c205m
+	e4 c98   c181m c196m c199m
+	e5   c208m c214m c220m
+	e6 c03 c38
+	e7 c175 c17 c84 c64 c37    c178m c187m c190m c211m c217m
+	e8 c90 c87   c193m
+Shank_4
+ 12R
+ 14units
+ 18multiR
+	e1 c36 c78   c99m c117m
+	e2 c13 c43  c02 c61   c81m c102m c111m c126m c129m
+   	e3 c72   c105m 
+	e4 c29   c87m c90m c96m c114m
+	e5 c52 c58   c132m c120m c123m
+	e6 c04
+	e7 c65 c76   c84m c102m
+	e8 c73   c93m
+Shank_5 
+ 8R
+ 14units
+ 12multiR
+	e1 c42 c47    c62m
+	e2 c22 c06**
+	e3 c38 c39 c51**   c65m c71m c80m
+	e4 c33 c55
+	e5 c43   c83m c92m
+	e6    c68m
+	e7 c23   c74m c77m c86m c89m
+	e8 c29 c53 c45   c59m
+Shank_6 
+ 5R
+ 7units
+ 13multiR
+	e1 c31
+	e2 c35**   c51m c75m
+	e3 (c45 c11 c33) c07** c43   c48m c69m c81m
+	e4    c57m c84m
+	e5 c14 c39   c54m c60m c63m c66m c72m c78m
+	e6 c
+	e7 c
+	e8 c
+Shank_7 MULTI response
+ 5R
+ 20units
+ 5multiR
+	e1 c05 c51 c04
+	e2 c34 c14 c62
+	e3 c16 c22 c25
+	e4 c12 c40   c69m
+	e5 c46 (c52 c58)   c66m c72m c75m c78m
+	e6 c57 c19
+	e7 c54 c18
+	e8 c31 c53 c35
+Shank_8
+ 0R
+ 13units
+ 	e1 c40 c30
+	e2 (c18 c34)
+	e3 c17 c36 c38
+	e4 c10 c03
+	e5 c05
+	e6 c21 c32
+	e7 c22 c28
+	e8 c

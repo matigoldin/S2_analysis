@@ -1,0 +1,192 @@
+20/11/2015
+
+-------------------
+-------------------
+GIT VERSIONING
+-------------------
+-------------------
+
+in a shell
+
+$ git
+
+-------------------
+Configure myself:
+git config --global user.name "Vlad Dracula"
+git config --global user.email "vlad@tran.yl.vania"
+
+-------------------
+Configure nice colors:
+git config --global color.ui "auto"
+
+-------------------
+To see what is my config:
+git config --list 
+
+-------------------
+Create a project or respository:
+mkdir planets
+cd planets
+git init
+
+-------------------
+STATUS:
+git status
+
+-------------------
+Create a file:
+mars.txt
+
+git status 
+
+I have an untracked file
+
+-------------------
+Track file:
+git add mars.txt
+
+git status
+
+now I have changes to be commited
+
+-------------------
+Take a snapshot:
+git commit -m "Start notes on Mars base"
+
+-m argument to explain with a little text
+
+-------------------
+History of project:
+
+git log
+
+-------------------
+Differences:
+
+git diff
+git diff mars.txt
+
+
+git commit -m ....
+does not change anything
+
+you have to add mars.txt again
+
+-------------------
+Will show differences between repository and 'staged' area, which is the commit area, so this is to see differences after commiting:
+
+git diff --staged 
+
+-------------------
+EXPLORING HIST:
+
+git diff HEAD~1
+git diff HEAD~1 mars.txt
+git diff HEAD~2 mars.txt
+
+Differences between session -1 and session -1
+git diff HEAD~1 HEAD~2 mars.txt
+
+git log
+will show the different commits with different IDs
+we can copy the ID
+
+git diff 6ff5df2e3f1a95057077d09607075662234673d4 mars.txt
+
+-------------------
+Restore version:
+git checkout HEAD mars.txt
+
+restore a previous version:
+git checkout HEAD~1 mars.txt
+
+-------------------
+Ignore datafiles:
+
+nano .gitignore*.dat
+two lines:
+*.dat
+/results
+
+git add .gitignore
+
+git commit -m "Add ignore file"
+
+git status --ignore
+
+-------------------
+-------------------
+REMOTES IN GITHUB
+-------------------
+-------------------
+First create in github or bitbucket
+
+git remote add origin https://github.com/matigoldin/planets.git
+
+git remote -v (for verbose)
+
+git push origin master
+
+master is the branch name
+
+-------------------
+Colaborating
+-------------------
+git clone https://github.com/chrisUnic/planets.git (from the other person)
+
+wolfman works
+
+he creates pluto.tx
+add pluto.txt
+git commit -m "Added pluto.txt"
+
+git remote -v
+
+shows only what dracula made
+
+git push origin master
+
+
+Now Dracula:
+git pull origin master
+
+-------------------
+Wolfman and Dracula changes 
+-------------------
+
+Wolfman pushed
+Dracula wants to push same file and gets rejected
+
+Se we want to merge!
+then i pull and have to fix the conflic myself
+
+If I want to test the code I can make different clones,
+or I should have made a branch, then test the code
+and then decide if merging into the master.
+
+cat mars.txt and correct conflict
+
+
+Only one person has to resolve version
+
+-------------------
+source tree is a nice GUI for git
+
+-------------------
+-------------------
+PANDAS
+-------------------
+-------------------
+
+You use real labels for fields , rows and columns!!!
+
+
+
+-------------------
+-------------------
+-------------------
+-------------------
+-------------------
+-------------------
+-------------------
+
